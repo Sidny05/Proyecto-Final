@@ -1,0 +1,704 @@
+.group-child {
+  	position: absolute;
+  	top: 700.5px;
+  	left: 262px;
+  	filter: blur(368px);
+  	border-radius: 50%;
+  	background: linear-gradient(180deg, #e253a4 36.06%, #f4cb00);
+  	width: 761.2px;
+  	height: 882px;
+  	transform:  rotate(-67deg);
+  	transform-origin: 0 0;
+}
+.audifono-astro-a50-x-blanco-2-icon {
+  	position: absolute;
+  	top: 118px;
+  	left: 510px;
+  	width: 785.8px;
+  	height: 785.8px;
+  	object-fit: contain;
+}
+.span {
+  	font-size: 96px;
+}
+.a {
+  	font-size: 100px;
+}
+.astro-a501 {
+  	font-weight: 800;
+}
+.wireless {
+  	margin: 0;
+  	font-size: 90px;
+  	font-weight: 200;
+}
+.astro-a50-wireless-container {
+  	position: absolute;
+  	top: 213px;
+  	left: 11px;
+  	line-height: 90px;
+  	display: inline-block;
+  	width: 531px;
+  	height: 174px;
+}
+.con-un-diseo {
+  	position: absolute;
+  	top: 550px;
+  	left: 11px;
+  	font-size: 18px;
+  	line-height: 28px;
+  	font-weight: 300;
+  	display: inline-block;
+  	width: 551px;
+  	height: 159px;
+}
+.a50-for-xbox {
+  	position: absolute;
+  	top: 638px;
+  	left: 15px;
+  	font-size: 12px;
+  	line-height: 19px;
+  	font-weight: 300;
+  	display: inline-block;
+  	width: 530px;
+  	height: 88px;
+}
+.group-item {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	box-shadow: 37.66666793823242px -37.66666793823242px 37.67px rgba(165, 165, 165, 0.14) inset, -37.66666793823242px 37.66666793823242px 37.67px rgba(255, 255, 255, 0.14) inset;
+  	backdrop-filter: blur(16px);
+  	border-radius: 16px;
+  	background-color: rgba(217, 217, 217, 0.14);
+  	width: 1262.5px;
+  	height: 75.9px;
+}
+.nosotros {
+  	position: absolute;
+  	top: 19px;
+  	left: 57px;
+  	font-weight: 500;
+  	display: inline-block;
+  	width: 205px;
+  	height: 29px;
+  	cursor: pointer;
+}
+.audifonos {
+  	position: absolute;
+  	top: 19px;
+  	left: 289px;
+  	font-weight: 500;
+  	display: inline-block;
+  	width: 188px;
+  	height: 29px;
+  	cursor: pointer;
+}
+.teclados {
+  	position: absolute;
+  	top: 19px;
+  	left: 542px;
+  	font-weight: 500;
+  	display: inline-block;
+  	width: 208px;
+  	height: 29px;
+  	cursor: pointer;
+}
+.pc {
+  	position: absolute;
+  	top: 19px;
+  	left: 810px;
+  	font-weight: 500;
+  	display: inline-block;
+  	width: 157px;
+  	height: 29px;
+  	cursor: pointer;
+}
+.contactanos {
+  	position: absolute;
+  	top: 19px;
+  	left: 949px;
+  	font-weight: 500;
+  	display: inline-block;
+  	width: 313px;
+  	height: 29px;
+  	cursor: pointer;
+}
+.rectangle-parent {
+  	position: absolute;
+  	top: 80px;
+  	left: 0px;
+  	width: 1262.5px;
+  	height: 75.9px;
+  	font-size: 32px;
+}
+.comprar-ahora {
+  	position: absolute;
+  	top: 16px;
+  	left: 25px;
+  	text-decoration: underline;
+  	font-weight: 700;
+  	color: inherit;
+}
+.comprar-ahora-wrapper {
+  	position: absolute;
+  	top: 734px;
+  	left: 7px;
+  	border-radius: 40px;
+  	background: linear-gradient(90deg, #f4cb00 7.69%, #e253a4 82.21%);
+  	width: 255px;
+  	height: 66px;
+  	overflow: hidden;
+  	font-size: 26px;
+}
+.ellipse-parent {
+  	position: absolute;
+  	top: 0px;
+  	left: 105px;
+  	width: 1371.5px;
+  	height: 1045.6px;
+  	font-size: 100px;
+}
+.audifonos1 {
+  	position: absolute;
+  	top: 75px;
+  	left: 108px;
+  	font-size: 64px;
+  	font-weight: 800;
+  	font-family: Inter;
+  	color: #a400d5;
+  	text-align: left;
+}
+.disfruta-del-mejor {
+  	position: absolute;
+  	top: 174px;
+  	left: 108px;
+  	color: #000;
+  	white-space: pre-wrap;
+  	text-align: left;
+}
+.ver-sitio {
+  	position: absolute;
+  	top: 12px;
+  	left: 32px;
+  	text-decoration: underline;
+  	font-weight: 700;
+  	color: inherit;
+  	display: inline-block;
+  	width: 184px;
+  	height: 27px;
+}
+.ver-sitio-wrapper {
+  	position: absolute;
+  	top: 222px;
+  	left: 62px;
+  	box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+  	border-radius: 20px;
+  	background-color: #a300d5;
+  	width: 248px;
+  	height: 58px;
+  	overflow: hidden;
+}
+.audifono-astro-a50-x-blanco-2-icon1 {
+  	position: absolute;
+  	top: -29px;
+  	left: 13px;
+  	width: 230px;
+  	height: 230px;
+  	object-fit: cover;
+}
+.audifono-astro-a50-x-blanco-2-wrapper {
+  	position: absolute;
+  	top: 28px;
+  	left: 42px;
+  	box-shadow: 8px 8px 4px rgba(0, 0, 0, 0.25);
+  	border-radius: 20px;
+  	background-color: #fff;
+  	width: 288px;
+  	height: 172px;
+  	overflow: hidden;
+}
+.frame-group {
+  	position: absolute;
+  	top: 285px;
+  	left: 87px;
+  	box-shadow: 8px 8px 4px rgba(0, 0, 0, 0.25);
+  	border-radius: 20px;
+  	background-color: #fff;
+  	width: 372px;
+  	height: 300px;
+  	overflow: hidden;
+}
+.g-7nx7cjl-ac-3-icon {
+  	position: absolute;
+  	top: 0px;
+  	left: 42px;
+  	width: 203.1px;
+  	height: 221px;
+  	object-fit: cover;
+}
+.frame-container {
+  	position: absolute;
+  	top: 285px;
+  	left: 534px;
+  	box-shadow: 8px 8px 4px rgba(0, 0, 0, 0.25);
+  	border-radius: 20px;
+  	background-color: #fff;
+  	width: 372px;
+  	height: 300px;
+  	overflow: hidden;
+}
+.hyperx-1-icon {
+  	position: absolute;
+  	top: -51px;
+  	left: 0px;
+  	width: 273px;
+  	height: 273px;
+  	object-fit: cover;
+}
+.frame-div {
+  	position: absolute;
+  	top: 285px;
+  	left: 964px;
+  	box-shadow: 8px 8px 4px rgba(0, 0, 0, 0.25);
+  	border-radius: 20px;
+  	background-color: #fff;
+  	width: 372px;
+  	height: 300px;
+  	overflow: hidden;
+}
+.audifonos-parent {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	background-color: #fff;
+  	width: 1440px;
+  	height: 643px;
+  	overflow: hidden;
+}
+.frame-wrapper {
+  	position: absolute;
+  	top: 904px;
+  	left: 16px;
+  	width: 1440px;
+  	height: 643px;
+  	text-align: center;
+  	font-family: 'Instrument Sans';
+}
+.mejora-tu-precisin {
+  	position: absolute;
+  	top: 174px;
+  	left: 108px;
+  	color: #000;
+  	text-align: left;
+}
+.frame-wrapper1 {
+  	position: absolute;
+  	top: 272px;
+  	left: 108px;
+  	box-shadow: 8px 8px 4px rgba(0, 0, 0, 0.25);
+  	border-radius: 20px;
+  	background-color: #fff;
+  	width: 372px;
+  	height: 300px;
+  	overflow: hidden;
+}
+.iuun3rszl-ac-sx679-3-icon {
+  	position: absolute;
+  	top: 0px;
+  	left: 29px;
+  	width: 229.4px;
+  	height: 152px;
+  	object-fit: cover;
+}
+.iuun3rszl-ac-sx679-3-wrapper {
+  	position: absolute;
+  	top: 292px;
+  	left: 150px;
+  	box-shadow: 8px 8px 4px rgba(0, 0, 0, 0.25);
+  	border-radius: 20px;
+  	background-color: #fff;
+  	width: 288px;
+  	height: 172px;
+  	overflow: hidden;
+}
+.cwc9kc9xl-ac-sl1500-3-icon {
+  	position: absolute;
+  	top: 34px;
+  	left: 20px;
+  	width: 248px;
+  	height: 124px;
+  	object-fit: cover;
+}
+.cwc9kc9xl-ac-sl1500-3-wrapper {
+  	position: absolute;
+  	top: 20px;
+  	left: 42px;
+  	box-shadow: 8px 8px 4px rgba(0, 0, 0, 0.25);
+  	border-radius: 20px;
+  	background-color: #fff;
+  	width: 288px;
+  	height: 172px;
+  	overflow: hidden;
+}
+.ver-sitio-wrapper2 {
+  	position: absolute;
+  	top: 220px;
+  	left: 62px;
+  	box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+  	border-radius: 20px;
+  	background-color: #a300d5;
+  	width: 248px;
+  	height: 58px;
+  	overflow: hidden;
+}
+.frame-parent1 {
+  	position: absolute;
+  	top: 272px;
+  	left: 516px;
+  	box-shadow: 8px 8px 4px rgba(0, 0, 0, 0.25);
+  	border-radius: 20px;
+  	background-color: #fff;
+  	width: 372px;
+  	height: 300px;
+  	overflow: hidden;
+}
+.frame-child {
+  	position: absolute;
+  	top: 20px;
+  	left: 42px;
+  	border-radius: 20px;
+  	width: 288px;
+  	height: 172px;
+  	overflow: hidden;
+  	object-fit: cover;
+}
+.ver-sitio-wrapper3 {
+  	position: absolute;
+  	top: 218px;
+  	left: 62px;
+  	box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+  	border-radius: 20px;
+  	background-color: #a300d5;
+  	width: 248px;
+  	height: 58px;
+  	overflow: hidden;
+}
+.frame-parent2 {
+  	position: absolute;
+  	top: 272px;
+  	left: 924px;
+  	box-shadow: 8px 8px 4px rgba(0, 0, 0, 0.25);
+  	border-radius: 20px;
+  	background-color: #fff;
+  	width: 372px;
+  	height: 300px;
+  	overflow: hidden;
+}
+.teclados-parent {
+  	position: absolute;
+  	top: 1547px;
+  	left: 16px;
+  	background-color: #fff;
+  	width: 1440px;
+  	height: 635px;
+  	overflow: hidden;
+  	text-align: center;
+  	font-family: 'Instrument Sans';
+}
+.wzcd8veyl-ac-sx679-3-icon {
+  	position: absolute;
+  	top: -18px;
+  	left: 70px;
+  	width: 177.7px;
+  	height: 208px;
+  	object-fit: cover;
+}
+.tnyhefal-ac-sx679-3-icon {
+  	position: absolute;
+  	top: 0px;
+  	left: 72px;
+  	width: 144.2px;
+  	height: 178px;
+  	object-fit: cover;
+}
+.icon {
+  	position: absolute;
+  	top: 4px;
+  	left: 55px;
+  	width: 178px;
+  	height: 168px;
+  	object-fit: cover;
+}
+.pc-parent {
+  	position: absolute;
+  	top: 2182px;
+  	left: 16px;
+  	background-color: #fff;
+  	width: 1440px;
+  	height: 635px;
+  	overflow: hidden;
+  	text-align: center;
+  	font-family: 'Instrument Sans';
+}
+.concenos {
+  	position: absolute;
+  	top: 176px;
+  	left: 105px;
+  	line-height: 90px;
+  	font-weight: 800;
+  	background: linear-gradient(90deg, #a400d5, #eb45a3 60.58%);
+  	-webkit-background-clip: text;
+  	-webkit-text-fill-color: transparent;
+}
+.somos-una-pgina {
+  	margin: 0;
+}
+.bienvenido-a-tu {
+  	margin: 0;
+  	font-weight: 600;
+}
+.somos-una-pgina-container {
+  	position: absolute;
+  	top: 146px;
+  	left: 609px;
+  	font-size: 16px;
+  	line-height: 30px;
+  	text-align: left;
+  	display: inline-block;
+  	width: 661px;
+}
+.concenos-parent {
+  	position: absolute;
+  	top: 2817px;
+  	left: 0px;
+  	background-color: #fff;
+  	width: 1456px;
+  	height: 548px;
+  	overflow: hidden;
+  	text-align: right;
+  	font-size: 64px;
+  	color: #000;
+}
+.concenos-group {
+  	position: absolute;
+  	top: 3360px;
+  	left: 16px;
+  	background-color: #fff;
+  	width: 1456px;
+  	height: 791px;
+  	overflow: hidden;
+  	text-align: right;
+  	font-size: 64px;
+  	color: #000;
+}
+.contactanos1 {
+  	position: absolute;
+  	top: 55px;
+  	left: 397px;
+  	font-size: 64px;
+  	line-height: 90px;
+  	font-weight: 800;
+  	background: linear-gradient(90deg, #a400d5, #eb45a3 60.58%);
+  	-webkit-background-clip: text;
+  	-webkit-text-fill-color: transparent;
+  	text-align: right;
+}
+.component-1-child {
+  	position: absolute;
+  	height: 87.5%;
+  	width: 100%;
+  	top: 12.5%;
+  	right: 0%;
+  	bottom: 0%;
+  	left: 0%;
+  	background-color: rgba(217, 217, 217, 0);
+}
+.correo-electrnico {
+  	position: absolute;
+  	height: 72.5%;
+  	width: 70.76%;
+  	top: 0%;
+  	left: 2.12%;
+  	line-height: 90px;
+  	display: inline-block;
+}
+.component-1 {
+  	position: absolute;
+  	top: 192px;
+  	left: 420px;
+  	border-radius: 16px;
+  	border: 2px solid rgba(163, 0, 213, 0.97);
+  	box-sizing: border-box;
+  	width: 472px;
+  	height: 80px;
+}
+.component-2 {
+  	position: absolute;
+  	top: 289px;
+  	left: 421px;
+  	border-radius: 16px;
+  	border: 2px solid rgba(163, 0, 213, 0.97);
+  	box-sizing: border-box;
+  	width: 472px;
+  	height: 80px;
+}
+.component-3-child {
+  	position: absolute;
+  	height: 87.53%;
+  	width: 100%;
+  	top: 12.5%;
+  	right: 0%;
+  	bottom: -0.03%;
+  	left: 0%;
+  	background-color: rgba(217, 217, 217, 0);
+}
+.correo-electrnico2 {
+  	position: absolute;
+  	height: 72.47%;
+  	width: 70.76%;
+  	top: 0%;
+  	left: 2.12%;
+  	line-height: 90px;
+  	display: inline-block;
+}
+.component-3 {
+  	position: absolute;
+  	top: 386px;
+  	left: 420px;
+  	border-radius: 16px;
+  	border: 2px solid rgba(163, 0, 213, 0.97);
+  	box-sizing: border-box;
+  	width: 472px;
+  	height: 166px;
+}
+.component-11 {
+  	position: absolute;
+  	top: 313px;
+  	left: 421px;
+  	width: 472px;
+  	height: 80px;
+}
+.enviar {
+  	position: absolute;
+  	top: -13px;
+  	left: 168px;
+  	line-height: 90px;
+  	display: inline-block;
+  	width: 182px;
+  	height: 42px;
+}
+.enviar-wrapper {
+  	position: absolute;
+  	top: 574px;
+  	left: 426px;
+  	border-radius: 16px;
+  	background: linear-gradient(90deg, #eb45a3, #f4cb00);
+  	width: 448px;
+  	height: 58px;
+  	overflow: hidden;
+  	font-size: 40px;
+  	color: #fff;
+}
+.contactanos-parent {
+  	position: absolute;
+  	top: 3402px;
+  	left: 84px;
+  	border-radius: 20px;
+  	background-color: #fff;
+  	width: 1304px;
+  	height: 712px;
+  	overflow: hidden;
+  	font-size: 24px;
+  	color: #8700a8;
+}
+.gamer-store-todos {
+  	position: absolute;
+  	top: 50px;
+  	left: 468px;
+  	line-height: 90px;
+  	display: inline-block;
+  	width: 536px;
+  	height: 72px;
+}
+.gamer-store-todos-los-derecho-wrapper {
+  	position: absolute;
+  	top: 4151px;
+  	left: 16px;
+  	background-color: #fff;
+  	width: 1440px;
+  	height: 204px;
+  	overflow: hidden;
+  	font-size: 20px;
+  	color: #000;
+}
+.group-parent {
+  	width: 1476.5px;
+  	position: relative;
+  	height: 4355px;
+}
+.group-wrapper {
+  	position: absolute;
+  	top: 0px;
+  	left: -16px;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: flex-start;
+}
+.frame-parent {
+  	width: 100%;
+  	position: relative;
+  	background-color: #a300d5;
+  	height: 4355px;
+  	overflow: hidden;
+  	text-align: left;
+  	font-size: 32px;
+  	color: #fff;
+  	font-family: Poppins;
+}
+
+.formulario {
+  max-width: 500px;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.formulario input,
+.formulario textarea {
+  padding: 0.8rem;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  font-size: 1rem;
+  width: 100%;
+}
+
+.formulario button {
+  background: linear-gradient(90deg, #ffcc00, #ff009d);
+  color: #fff;
+  padding: 0.8rem;
+  border: none;
+  border-radius: 20px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+@media (min-width: 600px) {
+    header { flex-direction: row;
+            justify-content: space-between;
+            text-align: left;}
+  
+    header img { margin: 0;}
+  }
+  
+@media (min-width: 992px) {
+    main { display: flex;
+          flex-direction: column;}
+  
+    .dual-column { display: flex;
+                  gap: 20px;}
+  
+    .dual-column > section {flex: 1;}
+  }
